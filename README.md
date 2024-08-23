@@ -2,7 +2,7 @@
 
 > Tecnologia local al servicio de la comunidad
 
-Misión: Ser una organización que implemente tencnologías de la información al servicio de la comunidad local. 
+Misión: Ser una organización que implemente tecnologías de la información al servicio de la comunidad local. 
 
 Visión: Ser un agente regional, nacional y global en la industria de las tecnologías de la información.
 
@@ -22,9 +22,4 @@ El único requisito para participar es pasión por la tecnología y ganas de apr
 
 ## Stack de tecnología
 
-**L**inux, **A**pache, **M**ySQL, **Py**thon
-
-**LAMPy**
-
-Lo que mejor manejamos (en este momento) es el Stack LAMPy y es lo que usaremos para hacer este sitio. 
-Esto, porque tenemos experiencia enseñando este stack y eso será bastante útil!
+El sitio es (esta plantilla)[https://startbootstrap.com/theme/agency] y despliega con Github Pages.
