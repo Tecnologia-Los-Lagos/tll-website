@@ -22,4 +22,4 @@ El único requisito para participar es pasión por la tecnología y ganas de apr
 
 ## Stack de tecnología
 
-El sitio es (esta plantilla)[https://startbootstrap.com/theme/agency] y despliega con Github Pages.
+El sitio es [esta plantilla](https://startbootstrap.com/theme/agency) y despliega con Github Pages.
